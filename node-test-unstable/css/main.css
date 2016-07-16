@@ -3,11 +3,12 @@ body {
 }
 
 canvas {
-  max-width: 100%;
-  width: 320px;
+  max-width: 300%;
+  width: 324px;
 }
 
 video {
-  max-width: 100%;
-  width: 320px;
+  max-width: 300%;
+  width: 800px;
 }
+
